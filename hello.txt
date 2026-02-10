@@ -2,5 +2,5 @@
    hi ! My first git file
 No i updated  the file
 ok
-
+file updated from feature-1 branch
   
