@@ -1,1 +1,6 @@
+
    hi ! My first git file
+No i updated  the file
+ok
+
+  
