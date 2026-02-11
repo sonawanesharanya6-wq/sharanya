@@ -1,0 +1,15 @@
+name: My first CI Workflow
+
+on:
+  push:
+    branches:
+      - feature
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      
+      - name: Show branch name
+        run: echo "Code pushed to feature branch"
